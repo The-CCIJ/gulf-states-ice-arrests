@@ -1,6 +1,6 @@
-# Hed t/k
+# Gulf States ICE arrests analysis
 
-Data, methods and code underlying this Center for Collaborative Investigative Journalism article examining arrests made by Immigration and Customs Enforcement (ICE) under the second Trump administration, co-published with the member stations of the [Gulf States Newsroom](https://www.canva.com/design/DAG--fxtMG4/FaZ1C_7kqq-3qnEGRXr0Cg/view?utm_content=DAG--fxtMG4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7661611f93#1), a regional public media collaboration covering Alabama, Louisiana and Mississippi.
+Data, methods and code underlying a Center for Collaborative Investigative Journalism analysis examining arrests made by Immigration and Customs Enforcement (ICE) under the second Trump administration, [co-published](https://www.wwno.org/immigration/2026-09-16/new-orleans-ice-office-has-the-second-highest-arrest-rate-in-the-country-data-shows) with the member stations of the [Gulf States Newsroom](https://www.canva.com/design/DAG--fxtMG4/FaZ1C_7kqq-3qnEGRXr0Cg/view?utm_content=DAG--fxtMG4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h7661611f93#1), a regional public media collaboration covering Alabama, Louisiana and Mississippi.
 
 ### Data methods and code
 
